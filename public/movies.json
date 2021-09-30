@@ -1,0 +1,122 @@
+[
+  {
+    "key": "001",
+    "name": "Avatar",
+    "type": "Science Fiction",
+    "earn": 2845899541,
+    "director": "James Cameron",
+    "leadingCast": "James Cameron",
+    "year": 2009,
+    "img": "https://static.toiimg.com/photo/msid-5348868/5348868.jpg?26276"
+  },
+  {
+    "key": "002",
+    "name": "Avengers Endgame",
+    "type": "Super Hero",
+    "earn": 2797800564,
+    "director": "Joe Russo",
+    "leadingCast": "Robert Downey Jr",
+    "year": 2019,
+    "img": "https://lumiere-a.akamaihd.net/v1/images/p_avengersendgame_19751_e14a0104.jpeg?region=0%2C0%2C540%2C810"
+  },
+  {
+    "key": "003",
+    "name": "Titanic",
+    "type": "Historical Fiction",
+    "earn": 1548622601,
+    "director": "James Cameron",
+    "leadingCast": "Leonardo DiCaprio",
+    "year": 1997,
+    "img": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg"
+  },
+  {
+    "key": "004",
+    "name": "Star Wars Ep. VII: The Force Awakens",
+    "type": "Science Fiction",
+    "earn": 2064615817,
+    "director": "J.J. Abrams",
+    "leadingCast": "Kylo Ren",
+    "year": 2015,
+    "img": "https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2015/12/15121658/Star-Wars-Episode-VII-The-Force-Awakens.jpg"
+  },
+  {
+    "key": "005",
+    "name": "Avengers: Infinity War (2018)",
+    "type": "Super Hero",
+    "earn": 2044540523,
+    "director": "Joe Russo",
+    "leadingCast": "Robert Downey Jr",
+    "year": 2018,
+    "img": "https://lh3.googleusercontent.com/proxy/RFX0XUy5ztRCO7wM_-gbY45hZOq7UKcwuM6M9IINmh_AekMwyT7wEmpz0WlpvWSK009PK9IZ_fI-_VRd0Fyp4qZw14bl6xa47BmcPFTa7MrgMRVnc6U9svSzLvoi"
+  },
+  {
+    "key": "006",
+    "name": "Jurassic World (2015)",
+    "type": "Science Fiction",
+    "earn": 2044540523,
+    "director": "Colin Trevorrow",
+    "leadingCast": "Owen Grady",
+    "year": 2015,
+    "img": "https://resizing.flixster.com/2pOIB5GrOokMw8ZntwUgzn7TKMY=/fit-in/300x533/v2/https://flxt.tmsimg.com/assets/p10815284_p_v8_al.jpg"
+  },
+  {
+    "key": "007",
+    "name": "The Lion King (2019)",
+    "type": "Kids Fiction",
+    "earn": 1654367425,
+    "director": "Colin Trevorrow",
+    "leadingCast": "Owen Grady",
+    "year": 2019,
+    "img": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_.jpg"
+  },
+  {
+    "key": "008",
+    "name": "Furious 7 (2015)",
+    "type": "Contemporary Fiction",
+    "earn": 1516881526,
+    "director": "James Wan",
+    "leadingCast": "Dominic Toretto",
+    "year": 2015,
+    "img": "https://i.pinimg.com/originals/67/89/c9/6789c98ac3ca2053d94b65725724cfe3.jpg"
+  },
+  {
+    "key": "009",
+    "name": "The Avengers (2012)",
+    "type": "Super Hero",
+    "earn": 1515100211,
+    "director": "Joe Russo",
+    "leadingCast": "Robert Downey Jr",
+    "year": 2012,
+    "img": "https://static.tvtropes.org/pmwiki/pub/images/100420.jpg"
+  },
+  {
+    "key": "010",
+    "name": "Frozen II (2019)",
+    "type": "Kids Fiction",
+    "earn": 1445251833,
+    "director": "Jennifer Lee",
+    "leadingCast": "Anna",
+    "year": 2015,
+    "img": "https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "key": "011",
+    "name": "Avengers: Age of Ultron (2015)",
+    "type": "Super Hero",
+    "earn": 1395316979,
+    "director": "Joe Russo",
+    "leadingCast": "Robert Downey Jr",
+    "year": 2015,
+    "img": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_.jpg"
+  },
+  {
+    "key": "012",
+    "name": "Black Panther (2018)",
+    "type": "Super Hero",
+    "earn": 1336494321,
+    "director": "Ryan Coogler",
+    "leadingCast": "Chadwick Boseman",
+    "year": 2015,
+    "img": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_.jpg"
+  }
+]
